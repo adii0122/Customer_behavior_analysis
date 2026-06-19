@@ -139,13 +139,13 @@ Data-Analytics-Project/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/project-name.git
+gh repo clone adii0122/Customer_behavior_analysis
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd project-name
+cd project-Customer_behavior_analysis
 ```
 
 3. Install required libraries:
