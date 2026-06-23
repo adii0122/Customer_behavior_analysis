@@ -179,7 +179,7 @@ Data Analytics | SQL | Power BI | Python | DevOps Enthusiast
 
 LinkedIn: [https://www.linkedin.com/in/ansh-verma-4ba03a34b/]
 
-GitHub: [[Your GitHub Profile](https://github.com/adii0122)]
+GitHub: [(https://github.com/adii0122)]
 
 
 
